@@ -1,38 +1,40 @@
-# Hi, I'm Laith Almomani 👋
+# Laith Almomani
 
-### Software Development Engineer
+### Full Stack Developer
 
-I’m a software developer with experience building backend, web, and mobile applications, with a current focus on **Java, Spring Boot, REST APIs, and PostgreSQL**.
+I work on web and mobile applications. My experience includes React, Next.js, Flutter, Kotlin, and Swift, and my current focus is Java backend development with Spring Boot and PostgreSQL.
 
-I enjoy building clean, maintainable software and working across the full development lifecycle — from backend APIs and databases to web and mobile applications.
+## Tech Stack
 
-## 🛠 Tech Stack
+**Backend**
+Java, Spring Boot, Spring Security, REST APIs
 
-**Backend**  
-Java • Spring Boot • REST APIs • Spring Security
+**Databases**
+PostgreSQL, MySQL
 
-**Databases**  
-PostgreSQL • MySQL
+**Frontend**
+React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-**Frontend**  
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS
+**Mobile**
+Flutter, Dart, Kotlin, Jetpack Compose, Swift, SwiftUI
 
-**Mobile**  
-Flutter • Dart • Kotlin • Jetpack Compose • Swift • SwiftUI
+**Tools**
+Git, GitHub, Maven, Docker
 
-**Tools & Technologies**  
-Git • GitHub • Maven • Docker
+## Projects
 
-## 🚀 Featured Projects
+### Mowazafeeni
+
+An HR platform I'm developing with Java, Spring Boot, PostgreSQL, and Next.js. Current work includes authentication, access control, and an Arabic and English dashboard.
 
 ### Business Catalog Platform
 
-A reusable full-stack business catalog platform composed of mobile, web, and backend applications.
+A business catalog project with backend, web, and mobile applications.
 
-- **[Backend API](https://github.com/almlaith/business_catalog_backend)** — Java, Spring Boot, PostgreSQL, JWT Authentication, Cloudinary
-- **[Web & Admin](https://github.com/almlaith/business_catalog_web)** — Next.js, React, TypeScript, Tailwind CSS
-- **[Mobile App](https://github.com/almlaith/business_catalog_app)** — Flutter, Riverpod, GoRouter, EN/AR localization
+- [Backend API](https://github.com/almlaith/business_catalog_backend): Spring Boot, PostgreSQL, Spring Security, JWT, and Cloudinary.
+- [Web and Admin](https://github.com/almlaith/business_catalog_web): Next.js, React, TypeScript, and Tailwind CSS.
+- [Mobile App](https://github.com/almlaith/business_catalog_app): Flutter, Riverpod, and GoRouter, with Arabic and English support.
 
-## 🔗 Connect with Me
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/almlaith/)
